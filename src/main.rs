@@ -1,3 +1,3 @@
 fn main() {
-    println!("this sh is freaking hard");
+    println!("this sh is freaking hard...");
 }
